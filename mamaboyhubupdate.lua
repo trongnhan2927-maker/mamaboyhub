@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/trongnhan2927-maker/akzaicdvn/refs/heads/main/9155930816235110.txt"))()
